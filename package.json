@@ -1,0 +1,25 @@
+{
+  "name": "Algoritmos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d bin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Topi99/AlgoritmosEquipos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Topi99/AlgoritmosEquipos/issues"
+  },
+  "homepage": "https://github.com/Topi99/AlgoritmosEquipos#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
